@@ -1,0 +1,8 @@
+openai==0.27.4
+gradio==3.2
+jinja2==3.0.3
+sentencepiece==0.1.98
+transformers==4.28.1
+opencc==1.1.6
+protobuf==3.19.6
+accelerate==0.18.0
